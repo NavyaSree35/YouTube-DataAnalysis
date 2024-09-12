@@ -1,7 +1,6 @@
 # YouTube-DataAnalysis
 
-#### This project analyzes YouTube video data to uncover key insights and trends that can help content creators enhance viewer engagement and optimize their video performance. By leveraging Python for data 
-  cleaning, analysis, and visualization, this project focuses on understanding the factors that influence viewer interaction, video length, and optimal upload times.
+#### This project analyzes YouTube video data to uncover key insights and trends that can help content creators enhance viewer engagement and optimize their video performance. By leveraging Python for data cleaning, analysis, and visualization, this project focuses on understanding the factors that influence viewer interaction, video length, and optimal upload times.
 
 ### Project Objectives
 * Analyze YouTube video data to identify patterns in viewer behavior and engagement.
